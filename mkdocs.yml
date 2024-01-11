@@ -4,7 +4,7 @@ nav:
   - Test: test.md
 
 theme:
-  name: material
+  name: readthedocs
 
 markdown_extensions:
   - admonition
